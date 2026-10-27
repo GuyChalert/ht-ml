@@ -29,3 +29,8 @@ depth marks. The app ships with a model and, on Wi-Fi, checks this repo for a ne
   agreed to their publication. Strip EXIF (GPS, dates) and site names from file names.
 - **Contributed data is licensed CC BY 4.0** (https://creativecommons.org/licenses/by/4.0/).
   By opening a pull request with data you agree to that licence.
+
+## Licences
+
+- **Code** (`engine/` and everything that is not data): MIT, see `LICENSE`.
+- **Contributed data** (`data/`): CC BY 4.0, see above.
